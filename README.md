@@ -1,1 +1,1 @@
-# five section bootstrap template 
+# Five Section Bootstrap Template 
